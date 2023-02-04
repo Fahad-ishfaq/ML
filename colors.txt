@@ -1,0 +1,15 @@
+For blue color filter of Donchain
+light = (1, 190, 200)
+dark = (255, 240, 250)
+
+For Center line 
+light_orange = (1, 190, 200)
+dark_orange = (18, 255, 255)
+
+For Falling red
+light_orange = (150, 140, 100)
+dark_orange = (180, 210, 255)
+
+For Green
+light_orange = (10, 90, 0)
+dark_orange = (110, 250, 200)
